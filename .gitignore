@@ -1,0 +1,29 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build and Dependency Directories
+node_modules/
+dist/
+build/
+
+# Temporary and Generated Files
+*.log
+tmp/
+temp/
+
+# Markdown Preview Files
+*.md.preview
+*.md.html
+
+# Local Configuration
+.env
+.env.local
